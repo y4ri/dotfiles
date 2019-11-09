@@ -1,0 +1,35 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAAAAAAAAAAAAAAABj8AAANqAAAAAgAAAAIAAAY9AAADaAAAAAAAAAAABkAAAAACAAAAAgAABj0AAANo"
+  }, 
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIgA////AAAAAQAAAAAAAAAA/AIAAAAD+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAAzQD////7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAABjAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAAGPAAAA2cAAAAEAAAABAAAAAgAAAAI/AAAAAA="
+  }, 
+  "old_prefs_migrated": true, 
+  "session_data": {
+    "background_image": null, 
+    "base_font_size": 20, 
+    "controls_help_shown_count": 2, 
+    "current_color_scheme": "sepia-light", 
+    "hide_tooltips": null, 
+    "standalone_font_settings": {
+      "mono_family": "DejaVu Sans Mono", 
+      "sans_family": "DejaVu Sans", 
+      "serif_family": "DejaVu Serif"
+    }, 
+    "standalone_misc_settings": {}, 
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Mark Manson"
+        ], 
+        "key": "/home/yari/Calibre Library/Mark Manson/The Subtle Art of Not Giving a F_ck (2)/The Subtle Art of Not Giving a F_ck - Mark Manson.epub", 
+        "pathtoebook": "/home/yari/Calibre Library/Mark Manson/The Subtle Art of Not Giving a F_ck (2)/The Subtle Art of Not Giving a F_ck - Mark Manson.epub", 
+        "timestamp": "2019-10-29T16:39:56.881Z", 
+        "title": "The Subtle Art of Not Giving a F*ck"
+      }
+    ]
+  }
+}
